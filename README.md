@@ -1,4 +1,4 @@
-This is a basic website created using React framework. It states some facts about the React website. 
+This is a basic website created using React framework. It states some facts about the React framework. 
 
 # Getting Started with Create React App
 
