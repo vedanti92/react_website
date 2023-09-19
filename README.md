@@ -1,3 +1,5 @@
+This is a basic website created using React framework. It states some facts about the React website. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
