@@ -1,4 +1,4 @@
-* {
+* { /*all the elements*/
   box-sizing: border-box;
 }
 
@@ -38,7 +38,7 @@ nav { /*navigation bar*/
   color: #DEEBFB;
 }
 
-main {
+main { /*main content*/
   padding: 57px 27px;
   color: white;
   text-align: left;
