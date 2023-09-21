@@ -3,8 +3,8 @@ import './App.css';
 function Navbar() {
   return (
     <nav>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='React Logo' className='nav--icon'/>
-      <h3 className='nav--logo_text'>ReactFacts</h3>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='React Logo' className='nav--icon'/> {/* react logo */}
+      <h3 className='nav--logo_text'>ReactFacts</h3> {/* title */}
       <h4 className='nav--title'>Home</h4>
     </nav>
   )
@@ -14,7 +14,7 @@ function MainContent() {
   return (
     <main>
       <h1 className='main--title'>Fun facts about React</h1>
-      <ul className='main--facts'>
+      <ul className='main--facts'> {/* list of facts */}
         <li>Was first released in 2013</li>
         <li>Was originally created by Jordan Walke</li>
         <li>Has well over 100K stars on GitHub</li>
