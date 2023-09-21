@@ -8,7 +8,7 @@ body {
   background-color: #282D35;
 }
 
-nav {
+nav { /*navigation bar*/
   display: flex;
   align-items: center;
   background-color: #21222A;
@@ -22,14 +22,14 @@ nav {
   color: white;
 }
 
-.nav--icon {
+.nav--icon { /*rect logo*/
   height: 30px;
   width: 34px;
   margin-right: 7px;
   font-size: 22px;
 }
 
-.nav--logo_text  {
+.nav--logo_text { /*title*/
   margin-right: auto;
   color: #61DAFB;
   font-weight: 700;
@@ -48,12 +48,12 @@ main {
   max-width: 500px;
 }
 
-.main--title {
+.main--title { /*heading*/
   margin: 0;
   font-size: 39px;
 }
 
-.main--facts {
+.main--facts { /*list of facts*/
   margin-top: 46px;
 }
 
